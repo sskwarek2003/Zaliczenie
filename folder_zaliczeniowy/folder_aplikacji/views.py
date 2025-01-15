@@ -9,3 +9,5 @@ def dashboard(request):
 
 def logowanie(request):
     return render(request, 'folder_aplikacji/login.html')
+
+###
